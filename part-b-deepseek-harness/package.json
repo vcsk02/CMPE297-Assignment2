@@ -1,0 +1,11 @@
+{
+  "name": "cmpe297-part-b-deepseek-harness",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "DeepSeek Harness plugin composition and two custom Cordis plugins",
+  "scripts": {
+    "demo": "node scripts/offline-plugin-demo.mjs",
+    "generate:patch": "node scripts/generate-patch.mjs"
+  }
+}
