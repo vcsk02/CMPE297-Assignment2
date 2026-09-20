@@ -1,3 +1,13 @@
+# CMPE 297 Assignment 2
+
+This repository contains the three progressively built harness deliverables:
+
+- [Part A — OpenRouter coding harness](README.md)
+- [Part B — DeepSeek Harness plugin composition](part-b-deepseek-harness/README.md)
+- [Part C — Bounded autoresearch ML harness](part-c-autoresearch/README.md)
+
+The detailed Part A documentation follows.
+
 # Part A — OpenRouter Coding Harness
 
 This repository contains a small coding agent implemented from scratch. It
